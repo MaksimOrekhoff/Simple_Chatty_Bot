@@ -1,0 +1,33 @@
+# Project exclude paths
+/.gradle/
+/Problems/Bus tour/out/
+/Problems/Bus tour/out/production/classes/
+/Problems/Calculating factorials/out/
+/Problems/Calculating factorials/out/production/classes/
+/Problems/Chocolate/out/
+/Problems/Chocolate/out/production/classes/
+/Problems/Collatz conjecture/out/
+/Problems/Collatz conjecture/out/production/classes/
+/Problems/Maximum element divisible by four/out/
+/Problems/Maximum element divisible by four/out/production/classes/
+/Problems/Profit/out/
+/Problems/Profit/out/production/classes/
+/Problems/Snail/out/
+/Problems/Snail/out/production/classes/
+/Problems/Squares of natural numbers/out/
+/Problems/Squares of natural numbers/out/production/classes/
+/Problems/Symmetrical number/out/
+/Problems/Symmetrical number/out/production/classes/
+/Problems/The (un)-ordered sequence/out/
+/Problems/The (un)-ordered sequence/out/production/classes/
+/Problems/The largest element of a sequence/out/
+/Problems/The largest element of a sequence/out/production/classes/
+/Problems/The product of numbers from a to b/out/
+/Problems/The product of numbers from a to b/out/production/classes/
+/Problems/The roots of an equation/out/
+/Problems/The roots of an equation/out/production/classes/
+/Problems/The smallest value/out/
+/Problems/The smallest value/out/production/classes/
+/Problems/Triangle/out/
+/Problems/Triangle/out/production/classes/
+/Simple Chatty Bot/task/build/
